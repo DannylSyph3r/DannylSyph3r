@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DannylSyph3r
-- 👀 I’m interested in Cloud Architecture and Engineering
-- 🌱 I’m currently learning Phyton 
+- 👀 I’m interested in Mobile Development 
+- 🌱 I’m currently learning Futter
 - 💞️ I’m looking to gain experience and grow my knowledge
 - 📫 How to reach me Gmail-dopedanny001@gmail.com 
 
