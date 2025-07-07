@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @DannylSyph3r
-- 👀 I’m interested in Mobile Development 
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to gain experience and grow my knowledge
-- 📫 How to reach me Gmail-dopedanny001@gmail.com 
+# 👋 Hi, I'm Danny (@DannylSyph3r)
 
-<!---
-DannylSyph3r/DannylSyph3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Full Stack Software Engineer** specializing in mobile and web development
+
+💻 **What I build:**
+- Cross-platform mobile apps with Flutter
+- Scalable backend services with Spring Boot
+- Full stack solutions from UI to database
+
+🌱 **Currently exploring:** Microservices architecture and cloud deployment
+
+💞️ **Looking to:** Collaborate on innovative projects and contribute to open source
+
+## 🛠️ I work with
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,spring,docker,postgres,java,dart,aws,git)](https://skillicons.dev)
