@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Danny (@DannylSyph3r)
+# 👋 Hello World, I'm Daniel
 
 🚀 **Full Stack Software Engineer** specializing in mobile and backend development
 
